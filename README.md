@@ -20,7 +20,15 @@ Hi, 感谢大家报名此次 OpenBuild 公开课系列，关于本次的详情�
 
 ### TON 学习资源
 
-> ToDo
+#### 教程类
+
+1. [TON 亚太开发者共学营课程](https://openbuild.xyz/learn/courses/99): 想要深入区块链的奇妙世界，成为 TON 生态系统的专家吗？来加入 TON x BuidlerDAO 的技术课程，打开区块链知识和技能的大门吧
+
+#### 工具类
+
+1. [awesome-ton](https://github.com/ton-community/awesome-ton): A curated list of remarkable libraries, tools, services, protocols, and smart contracts related to TON.
+
+
 
 ### Coding Challenge 及奖励说明
 
