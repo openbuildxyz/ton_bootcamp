@@ -14,8 +14,7 @@ Hi, 感谢大家报名此次 OpenBuild 公开课系列，关于本次的详情�
 
 1. TON 开发从入门到应用
 2. Coding Challenge 及奖励说明
-3. Contributor 说明
-4. TON 学习资源
+3. TON 学习资源
 
 ## TON 开发从入门到应用
 第一节课程 [TON&Tact Intro](https://github.com/0xOutOfGas/tact-learning)  代码[tact-template](https://github.com/0xOutOfGas/tact-template)
