@@ -22,7 +22,7 @@
 
 * 钱包地址: 0x*****************************************************
 
-*** (为了防止女巫，参与作业的人必须注册和完善 OpenBuild https://openbuild.xyz/ 的 Profile，绑定大家的钱包地址且必须绑定 Github)
+⚠️为了防止女巫，参与作业的人必须注册和完善 OpenBuild https://openbuild.xyz/ 的 Profile，绑定大家的钱包地址且必须绑定 Github
 
 （可以添加个人介绍）
 
