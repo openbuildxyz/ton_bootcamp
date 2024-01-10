@@ -22,7 +22,7 @@ Hi, 感谢大家报名此次 OpenBuild 公开课系列，关于本次的详情�
 
 ## Coding Challenge 及奖励说明
 ### 如何提交作业
-Fork 本仓库，复制 members/githubid 目录名为 [members/$your_github_id](https://github.com/openbuildxyz/ton_bootcamp/tree/main/members/your_github_id)，根据自己的信息编辑其中的 readme.md 内容，并提交 Pull Request 给本仓库，报名成功。
+Fork 本仓库，复制 members/githubid 目录名为 [members/$your_github_id](https://github.com/openbuildxyz/ton_bootcamp/tree/main/members/your_github_id)，根据自己的信息编辑其中的 readme.md 内容，并提交 Pull Request 给本仓库，报到成功。
 
 ### 奖学金计划
 - 🏅 初级 10U
