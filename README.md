@@ -50,6 +50,43 @@ Hi, 感谢大家报名此次 OpenBuild 公开课系列，关于本次的详情�
 
 1. [awesome-ton](https://github.com/ton-community/awesome-ton): A curated list of remarkable libraries, tools, services, protocols, and smart contracts related to TON.
 
+### 毕业标准
 
 
+### Milestone & 奖励
 
+- 🏅 初级 10U
+  - 完成作业一
+  - 提交认证：
+- 🎖 高级 20U
+
+  - 完成作业二
+  - 完成作业三
+  - 提交认证：
+- 🏆 终级 30U
+  - 完成作业四
+  - 完成作业五
+  - 完成作业六
+  - 发布 TON 相关的学习笔记[文章或者视频]
+  - 提交认证：
+
+- 🌈成为贡献者
+  - 发布 TON 相关的学习笔记[文章或者视频]
+  - 成为 Maintainer，并主持至少一次 Office Hour 如何成为 Maintainer
+  - 以上两项需要满足一项
+
+- 🏝 生态建设奖励 100-200U
+
+  - 给生态贡献了新的独立的 TON modules
+
+  - 对 TON 生态项目 Sui（move-language,movefuns） 有 PR 贡献，mentor 会评估 PR 的复杂度
+
+  - 开发出具有创新性的TON应用(团队或个人）
+
+  - 以上三项需要满足一项
+  - 对 TON生态 项目有重要的 PR 贡献：额外奖励 100-200U
+
+  - 提交认证：
+
+- 🎁神秘大奖
+  - 对贡献最多的团队或个人奖励xxx
