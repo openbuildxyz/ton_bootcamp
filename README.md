@@ -12,9 +12,22 @@ Hi, 感谢大家报名此次 OpenBuild 公开课系列，关于本次的详情�
 
 ### 目录
 
-1. TON 学习资源
+1. TON 开发从入门到应用
 2. Coding Challenge 及奖励说明
 3. Contributor 说明
+4. TON 学习资源
+
+## TON 开发从入门到应用
+第一节课程 [TON&Tact Intro](https://github.com/0xOutOfGas/tact-learning) 代码[链接](https://github.com/0xOutOfGas/tact-template)
+
+
+### Coding Challenge 及奖励说明
+
+>  ToDo
+
+### Contributor 说明
+
+> ToDo
 
 
 
@@ -30,15 +43,6 @@ Hi, 感谢大家报名此次 OpenBuild 公开课系列，关于本次的详情�
 
 1. [awesome-ton](https://github.com/ton-community/awesome-ton): A curated list of remarkable libraries, tools, services, protocols, and smart contracts related to TON.
 
-
-
-### Coding Challenge 及奖励说明
-
->  ToDo
-
-### Contributor 说明
-
-> ToDo
 
 
 
