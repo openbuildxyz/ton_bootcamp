@@ -62,3 +62,5 @@ Fork 本仓库，复制 members/githubid 目录名为 [members/$your_github_id](
 #### 工具类
 
 1. [awesome-ton](https://github.com/ton-community/awesome-ton): A curated list of remarkable libraries, tools, services, protocols, and smart contracts related to TON.
+
+2. [ton faucet bot](https://t.me/testgiver_ton_bot): A TON Blockchain Testnet Faucet Bot
