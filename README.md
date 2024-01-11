@@ -17,7 +17,8 @@ Hi, 感谢大家报名此次 OpenBuild 公开课系列，关于本次的详情�
 3. TON 学习资源
 
 ## TON 开发从入门到应用
-第一节 视频[TON&Tact](https://openbuild.xyz/learn/challenges/2023609337)  文档 [TON&Tact Intro](https://github.com/0xOutOfGas/tact-learning)  代码[tact-template](https://github.com/0xOutOfGas/tact-template)
+- 第一节 视频[TON&Tact](https://openbuild.xyz/learn/challenges/2023609337)  文档 [TON&Tact Intro](https://github.com/0xOutOfGas/tact-learning)  代码[tact-template](https://github.com/0xOutOfGas/tact-template)
+- 第二节 视频[Lesson 2 Tact 语法概述](https://openbuild.xyz/learn/challenges/2023609337) （明天上传）文档 [TON&Tact Intro](https://github.com/0xOutOfGas/tact-learning)  代码[receivers](https://tact-by-example.org/03-receivers)
 
 
 ## Coding Challenge 及奖励说明
@@ -27,11 +28,13 @@ Fork 本仓库，复制 members/githubid 目录名为 [members/$your_github_id](
 ### 奖学金计划
 - 🏅 阶段一 10U
   - 完成作业一
-  - 修改SampleTactContract合约,增加一个getter方法,重新部署,并调用此新方法。
-    修改SampleTactContract合约,增加一个消息处理方法,重新部署,并发送此新消息。
+    - 修改SampleTactContract合约,增加一个getter方法,重新部署,并调用此新方法
+    - 修改SampleTactContract合约,增加一个消息处理方法,重新部署,并发送此新消息
 
 - 🎖 阶段二 20U
   - 完成作业二
+    - 增加 Multiply/Divide 消息，并实现对应的接收处理方法
+    - 通过上一课的ts工程，将合约部署到链上，并向合约随机发送加减乘除指令，在区块浏览器查看交易信息
   - 完成作业三
 
 - 🏆 阶段三 30U
@@ -41,7 +44,7 @@ Fork 本仓库，复制 members/githubid 目录名为 [members/$your_github_id](
 
 - 🌈成为贡献者 & Maintainer 10-200U
   - 发布 TON 相关的学习笔记[文章或者视频]
-  - 成为社区TON大使，为TON生态做技术布道事
+  - 成为社区TON大使，为TON生态做技术布道师
   - 对 TON 生态项目有 PR 贡献，mentor 会评估 PR 的复杂度
   - 开发出具有创新性的TON应用(团队或个人）
   - Maintainer需主持至少一次 Office Hour [可联系微信：sqiuqiu999]
