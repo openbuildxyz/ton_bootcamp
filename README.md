@@ -18,7 +18,7 @@ Hi, 感谢大家报名此次 OpenBuild 公开课系列，关于本次的详情�
 
 ## TON 开发从入门到应用
 - 第一节 视频[TON&Tact](https://openbuild.xyz/learn/challenges/2023609337)  文档 [TON&Tact Intro](https://github.com/0xOutOfGas/tact-learning)  代码[tact-template](https://github.com/0xOutOfGas/tact-template)
-- 第二节 视频[Lesson 2 Tact 语法概述](https://openbuild.xyz/learn/challenges/2023609337) （明天上传）文档 [TON&Tact Intro](https://github.com/0xOutOfGas/tact-learning)  代码[receivers](https://tact-by-example.org/03-receivers)
+- 第二节 视频[Tact 语法概述](https://openbuild.xyz/learn/challenges/2023609337) （明天上传）文档 [TON&Tact Intro](https://github.com/0xOutOfGas/tact-learning)  代码[receivers](https://tact-by-example.org/03-receivers)
 
 
 ## Coding Challenge 及奖励说明
