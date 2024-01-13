@@ -10,7 +10,7 @@
 
 ## 作业提交
 
-[Task1](https://github.com/metanomad21/tact-template-lesson1-homwwork/)
+[Task1](https://github.com/metanomad21/tact-template-lesson1-homwwork/lesson1)
 
 修改SampleTactContract合约,增加一个getter方法,重新部署,并调用此新方法
 * 新增了getter函数：getOwner
