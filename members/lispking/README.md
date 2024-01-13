@@ -27,4 +27,4 @@
 
 ## 学习日志
 
-[第一课笔记](https://github.com/lispking/tact-template/blob/main/note.md)
+[笔记](https://github.com/lispking/tact-template/blob/main/note.md)
