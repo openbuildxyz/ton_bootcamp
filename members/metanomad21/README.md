@@ -8,14 +8,13 @@
 
 * 钱包地址: 0x02633a67BcB83Ff7e4920f92a4990478B3ACA2c3
 
-⚠️为了防止女巫，参与作业的人必须注册和完善 OpenBuild https://openbuild.xyz/ 的 Profile，绑定大家的钱包地址且必须绑定 Github
-
-（可以添加个人介绍）
-
 ## 作业提交
 
-例如：[Task1](Task.md#task-1)
+[Task1](https://github.com/metanomad21/tact-template-lesson1-homwwork/)
+contract.tact文件
+新增了getter函数：getOwner
+新增了receive函数：decrement
+合约地址：kQBUWdjuAFMORI8nd4Nu9963AZLCef-Daesq_rv2FF81gcKe
+调用decrement：https://testnet.tonviewer.com/transaction/92c68ece937275a2cc09d53d998c5c8a9fb51e1a9c5f7a979172992c450e2146
 
 ## 学习日志
-
-例如：[第一课笔记](journal/1.md)
