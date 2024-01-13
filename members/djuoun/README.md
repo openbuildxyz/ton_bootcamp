@@ -14,9 +14,9 @@
 
 ## 作业提交
 
-部署在测试网的合约地址：https://testnet.tonviewer.com/kQBoaKxsKmIkMlJqofRyD3Cu-EIUq2tYuvRn8UlqdCWSUefg
-作业1代码 ： https://github.com/djuoun/tact-template
-部署交易tx：https://testnet.tonviewer.com/transaction/75a8c84d4caf666e8968f10e89039fd0f20932b8bac6b79492524a515204cf64
+* 部署在测试网的合约地址：https://testnet.tonviewer.com/kQBoaKxsKmIkMlJqofRyD3Cu-EIUq2tYuvRn8UlqdCWSUefg
+* 作业1代码 ： https://github.com/djuoun/tact-template
+* 部署交易tx：https://testnet.tonviewer.com/transaction/75a8c84d4caf666e8968f10e89039fd0f20932b8bac6b79492524a515204cf64
 
 
 ## 学习日志
