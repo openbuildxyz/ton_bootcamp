@@ -12,7 +12,9 @@
 ## 作业一 提交
 
 部署在测试网的合约地址：
-https://testnet.tonviewer.com/transaction/00b58aac248fabe26f246991319f4f0feeac2c29b4f994bbeb4326a10cebecd3
-作业1代码 ： https://github.com/PhigrosX/Ton/tree/main/sources
+https://testnet.tonviewer.com/kQDjJFfdOFrIeVVJMGL1pyoeSSXxSMmw1I1PwEZs9J6YOAt8
+作业1和2代码 ： https://github.com/PhigrosX/Ton/tree/main/sources
 
 ## 学习日志
+完善SampleTactContract合约,增加了Decrease, Multiply等消息和对应接收方法
+完善write和read的TS文件,在测试链上执行"+";"-";"x";"/"操作
