@@ -18,7 +18,8 @@ Hi, 感谢大家报名此次 OpenBuild 公开课系列，关于本次的详情�
 
 ## TON 开发从入门到应用
 - 第一节 视频[TON&Tact](https://openbuild.xyz/learn/challenges/2023609337)  文档 [TON&Tact Intro](https://github.com/0xOutOfGas/tact-learning)  代码[tact-template](https://github.com/0xOutOfGas/tact-template)
-- 第二节 视频[Tact 语法概述](https://openbuild.xyz/learn/challenges/2023609337/2936) 文档 [TON&Tact Intro](https://github.com/0xOutOfGas/tact-learning)  代码[receivers](https://tact-by-example.org/03-receivers)
+- 第二节 视频[Tact语法概述](https://openbuild.xyz/learn/challenges/2023609337/2936) 文档 [Tact语法概述](https://github.com/0xOutOfGas/tact-learning)  代码[receivers](https://tact-by-example.org/03-receivers)
+- 第三节 视频[FT标准介绍与实战](https://openbuild.xyz/learn/challenges/2023609337/2937) 文档 [FT标准介绍与实战](https://github.com/0xOutOfGas/tact-learning)  
 
 
 ## Coding Challenge 及奖励说明
@@ -36,6 +37,7 @@ Fork 本仓库，复制 members/githubid 目录名为 [members/$your_github_id](
     - 增加 Multiply/Divide 消息，并实现对应的接收处理方法
     - 通过上一课的ts工程，将合约部署到链上，并向合约随机发送加减乘除指令，在区块浏览器查看交易信息
   - 完成作业三
+    - 修改Jetton合约，每次转账时，都收取1%的手续费，将手续费打到固定地址。如转账100，则实际到账99，手续费收1。 
 
 - 🏆 阶段三 30U
   - 完成作业四
