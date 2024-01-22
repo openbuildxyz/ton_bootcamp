@@ -20,7 +20,7 @@ Hi, 感谢大家报名此次 OpenBuild 公开课系列，关于本次的详情�
 - 第一节 视频[TON&Tact](https://openbuild.xyz/learn/challenges/2023609337)  文档 [TON&Tact Intro](https://github.com/0xOutOfGas/tact-learning)  代码[tact-template](https://github.com/0xOutOfGas/tact-template)
 - 第二节 视频[Tact语法概述](https://openbuild.xyz/learn/challenges/2023609337/2936) 文档 [Tact语法概述](https://github.com/0xOutOfGas/tact-learning)  代码[receivers](https://tact-by-example.org/03-receivers)
 - 第三节 视频[FT标准介绍与实战](https://openbuild.xyz/learn/challenges/2023609337/2937) 文档 [FT标准介绍与实战](https://github.com/0xOutOfGas/tact-learning)   代码[receivers](https://github.com/howardpen9/jetton-implementation-in-tact)
-
+- 第四节 视频[NFT标准介绍与实战](https://openbuild.xyz/learn/challenges/2023609337/2938) 文档 [NFT标准介绍与实战](https://github.com/0xOutOfGas/tact-learning)   
 
 ## Coding Challenge 及奖励说明
 ### 如何提交作业
@@ -41,6 +41,7 @@ Fork 本仓库，复制 members/githubid 目录名为 [members/$your_github_id](
 
 - 🏆 阶段三 30U
   - 完成作业四
+    - 完成一个 NFT 合约，支持替他人 mint，且每个账户最多 mint 3次。
   - 完成作业五
   - 完成作业六
 
