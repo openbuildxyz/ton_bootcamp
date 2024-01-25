@@ -21,6 +21,8 @@ Hi, 感谢大家报名此次 OpenBuild 公开课系列，关于本次的详情�
 - 第二节 视频[Tact语法概述](https://openbuild.xyz/learn/challenges/2023609337/2936) 文档 [Tact语法概述](https://github.com/0xOutOfGas/tact-learning)  代码[receivers](https://tact-by-example.org/03-receivers)
 - 第三节 视频[FT标准介绍与实战](https://openbuild.xyz/learn/challenges/2023609337/2937) 文档 [FT标准介绍与实战](https://github.com/0xOutOfGas/tact-learning)   代码[receivers](https://github.com/howardpen9/jetton-implementation-in-tact)
 - 第四节 视频[NFT标准介绍与实战](https://openbuild.xyz/learn/challenges/2023609337/2938) 文档 [NFT标准介绍与实战](https://github.com/0xOutOfGas/tact-learning)   
+- 第五节 视频[Tact合约测试和交互]() 文档 [Tact合约测试和交互](https://github.com/0xOutOfGas/tact-learning)   
+- 第六节 视频[Tact安全实践]() 文档 [Tact安全实践](https://github.com/0xOutOfGas/tact-learning)   
 
 ## Coding Challenge 及奖励说明
 ### 如何提交作业
