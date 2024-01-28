@@ -10,7 +10,7 @@
 
 ## 作业提交
 
-作业1 ： [https://github.com/msk397/tact-template
+作业1 & 作业2 ： [https://github.com/msk397/tact-template
 ](https://github.com/muyewei/tact-template)https://github.com/muyewei/tact-template
 
 ## 学习日志
