@@ -2,13 +2,13 @@
 
 ## 个人信息
 
-* Github: [allen](https://github.com/kojhliang)
+* Github: [kojhliang](https://github.com/kojhliang)
 
 * Wechat ID: kojhliang 或 18928730318
 
 * 钱包地址(EVM兼容地址): 0xD08920C19F9e81F05CE2e16f8fd7B3C7C6c61C58
   
-* 个人介绍： Keneitc Capital 首席研究员
+* 个人介绍：Head of Research at Keneitc Capital 
 
 ## 作业提交
 
@@ -20,9 +20,6 @@
 第一课作业代码：[https://github.com/kojhliang/tact-template/blob/main/sources/lesson1_contract.tact](https://github.com/kojhliang/tact-template/blob/main/sources/lesson1_contract.tact)
 
 第一课作业发送自定义消息的交易：https://testnet.tonviewer.com/transaction/5531be6fcda3af384ec37410425daa76a1fb148313d11db8e7d5344750e7cc3a?section=trace
-消息内容：message TestNumber {
-    number: Int as uint32 ;
-}
 
 第一课合约地址：https://testnet.tonviewer.com/kQB0hBxIk1vBg3IMlCPN0l-E34I6TvZGsED2w-pD1_Vymcuo
 
