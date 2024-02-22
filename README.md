@@ -29,6 +29,7 @@ Hi, 感谢大家报名此次 OpenBuild 公开课系列，关于本次的详情�
 Fork 本仓库，复制 members/githubid 目录名为 [members/$your_github_id](https://github.com/openbuildxyz/ton_bootcamp/tree/main/members/your_github_id)，根据自己的信息编辑其中的 readme.md 内容，并提交 Pull Request 给本仓库，报到成功。
 
 ### 奖学金计划
+为了防止女巫，以上活动参与的人必须注册和完善 OpenBuild https://openbuild.xyz/ 的 Profile，且必须绑定 Github和钱包地址。（不绑定 github 和钱包则没有奖励）
 - 🏅 阶段一 10U
   - 完成作业一
     - 修改SampleTactContract合约,增加一个getter方法,重新部署,并调用此新方法
